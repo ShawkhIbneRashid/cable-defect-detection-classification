@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71a02724-8566-463c-a18e-bf37f6d166b1": {
+      "ProjectGuid": "71a02724-8566-463c-a18e-bf37f6d166b1",
+      "DisplayName": "PipeDefectDiameter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

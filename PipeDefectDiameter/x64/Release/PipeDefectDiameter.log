@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(128,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(176,88): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(176,69): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(181,83): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(181,64): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(186,87): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\PipeDefectDiameter\main.cpp(186,68): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Generating code
+  1 of 294 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PipeDefectDiameter.vcxproj -> C:\Work\F_folder\Job Applies\For Full Time\machine-learning\indeed\Taymer\interview challenge\Taymer Interview Challenge\PipeDefectDiameter\x64\Release\PipeDefectDiameter.exe
